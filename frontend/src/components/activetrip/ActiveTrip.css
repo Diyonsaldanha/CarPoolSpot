@@ -1,0 +1,127 @@
+/* ActiveTrip.css */
+#mainContainer {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #activeTripContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+  
+  #mapContainer {
+    display: flex;
+    width: 40%;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1.25rem;
+  }
+  
+  .active-trip-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 95%;
+    height: 20%;
+    background-color: rgb(250, 246, 246);
+    border: 0.125rem solid black;
+  }
+  
+  #cancelTripButton {
+    margin-top: 0.625rem;
+  }
+  
+  #pageTitle {
+    text-align: center;
+    margin: 1.25rem;
+    font-size: 3.25rem;
+    color: #060b26;
+  }
+  
+  .trip-attributes {
+    font-weight: bold;
+  }
+  
+  /* Styling for Active Trip Details */
+  #activeTripContainer h1 {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  
+  #activeTripContainer h4 {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  #activeTripContainer p {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+  }
+  
+  #activeTripContainer ul {
+    font-size: 1.25rem;
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  #activeTripContainer li {
+    margin-bottom: 0.5rem;
+  }
+  
+  #activeTripContainer .row {
+    margin-top: 2rem;
+  }
+  
+  #activeTripContainer .col-md-6 {
+    border-right: 1px solid #dee2e6;
+    padding-right: 2rem;
+  }
+  
+  #activeTripContainer .col-md-6:last-child {
+    border-right: none;
+    padding-right: 0;
+  }
+  
+  /* Styling for Buttons */
+  #activeTripContainer .col-md-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  #doneTripButton,
+  #editTripButton,
+  #cancelTripButton {
+    width: 100%;
+    margin-bottom: 0.625rem;
+  }
+  /* Add margin-bottom to the Edit button to match the spacing between the Done and Cancel buttons */
+#editTripButton {
+  margin-bottom: 0.625rem;
+}
+
+  #doneTripButton {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  
+  #doneTripButton:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
+  
+  #cancelTripButton {
+    background-color: #dc3545;
+    border-color: #dc3545;
+  }
+  
+  #cancelTripButton:hover {
+    background-color: #c82333;
+    border-color: #bd2130;
+  }
+  
