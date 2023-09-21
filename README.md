@@ -27,6 +27,6 @@ RideShare offers a comprehensive set of features to enhance your commuting exper
 
 ## Contact 📧
 
-If you have any questions or need assistance, feel free to reach out to our team at diyonsaldanha@gmail.com .
+If you have any questions or need assistance, feel free to reach at diyonsaldanha@gmail.com .
 
 CarPoolSpot fosters shared mobility, contributing to reduced traffic congestion and a greener planet 🌎. Join us in revolutionizing the way people commute and make transportation smarter, more efficient, and environmentally responsible 🌟.
