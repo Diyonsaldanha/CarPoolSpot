@@ -3,7 +3,7 @@
 
 CarPoolSpot is an innovative web-based ride-sharing platform developed using the MERN (MongoDB, Express.js, React, Node.js) stack 🚀. It simplifies and enhances the commuting experience by connecting drivers with available seats to riders seeking convenient and eco-friendly transportation solutions 🌿. Our platform prioritizes user convenience, sustainability, and community engagement 🤝.
 
-Key Features:
+# Key Features:
 
 🗺️ Map Integration: Seamlessly integrate with Google Maps for precise route planning.
 
